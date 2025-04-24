@@ -1,7 +1,3 @@
-# ecommerce-sql-analysis
-SQL-based data analysis project using an e-commerce dataset. Includes database creation, analytical queries, subqueries, views, indexing, and performance optimization as part of a Data Analyst internship task.
-
-
 📊 Task 3 - SQL for Data Analysis
 =================================
 
@@ -9,6 +5,7 @@ SQL-based data analysis project using an e-commerce dataset. Includes database c
 ---------------------------
 
 This task demonstrates my ability to analyze structured e-commerce data using SQL. I’ve covered database creation, querying, subqueries, views, optimizations, and more.
+SQL-based data analysis project using an e-commerce dataset. Includes database creation, analytical queries, subqueries, views, indexing, and performance optimization as part of a Data Analyst internship task.
 
 🧠 What I Did
 -------------
